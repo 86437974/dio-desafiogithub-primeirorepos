@@ -17,4 +17,11 @@ Marque a opção README.md para trabalharmos com o tipo de aruqivo Markdown.
 
 Após arquivo criado, você poderá editar informações no próprio ambiente GitHub na opção "editar".
 
+# Acesso Remoto
+
+Você pode realizar as alterações direto na arquivo utilizando o acesso remoto, de onde você estiver. Para isso precisa:
+Baixar o Git Hub na sua máquina e realizar as configurações para dar acesso ao Git bash e criar um pasta para aquivar o documento.
+
+Após baixar o git, você terá acesso a algumas opções para manipulá-lo, uma delas é o git bach.
+Dentro da pasta criada, clique com o botação direito e inicialize o git bash.
 
